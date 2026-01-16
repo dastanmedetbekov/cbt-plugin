@@ -1,0 +1,11 @@
+{
+	"id": "cbt-journal",
+	"name": "CBT Journal",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "A Cognitive Behavioral Therapy (CBT) journal plugin for tracking thoughts, emotions, and cognitive distortions.",
+	"author": "Dastan",
+	"authorUrl": "",
+	"fundingUrl": "",
+	"isDesktopOnly": false
+}
